@@ -5,4 +5,7 @@ body {background-color:#FFC0CB;}
 #nav-td {width:200px; text-align:center;}
 p {color:white;}
 
-h1 {color:white;}
+h1 {color:white;
+    font-family:aberus;
+
+}
