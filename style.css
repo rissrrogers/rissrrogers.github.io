@@ -1,4 +1,6 @@
-body {background-color:#FFC0CB;}
+body {background-image: src="myBackground(II).jpg";
+    
+    background-color:#FFC0CB;}
 
 #nav-table {width:1024px;}
 
