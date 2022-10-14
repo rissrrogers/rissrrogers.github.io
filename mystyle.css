@@ -1,8 +1,17 @@
-body {background-image:url "myBackground(II).jpg";}
+body background-image {background-image:url ("myBackground(II).jpg");}
 
-#me {float: right;}
-#black {float: right;}
-#dr {float: right;}
+#me {float: right;
+           width:100px;
+          height:100px;
+}
+#black {float: right;
+        width:100px;
+          height:100px;
+}
+#dr {float: center;
+        width:100px;
+          height:100px;
+}
 
 {border-radius: 8px;
 }
