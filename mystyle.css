@@ -1,6 +1,11 @@
 body {background-image:url ("myBackground(II).jpg");}
 
 
+img {
+  border-radius: 8px;
+    float: right;
+}
+
 #nav-table {width:1024px;}
 
 #nav-td {width:200px; text-align:center;}
