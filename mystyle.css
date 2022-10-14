@@ -24,7 +24,9 @@ body  {background-image: url ("background.jpg");
 #nav-table {width:1024px;}
 
 #nav-td {width:200px; text-align:center;}
-p {color:#A8534B;}
+p {color:#A8534B;
+  font-size:30px;
+}
 
 h1 {color:#A8534B;}
 
