@@ -6,11 +6,11 @@ body  {background-image: url ("background.jpg");
            width:50px;
           height:100px;
 }
-#black {float: right;
+#black {float: center;
         width:50px;
           height:100px;
 }
-#dr {float: right;
+#dr {float: center;
         width:50px;
           height:100px;
 }
