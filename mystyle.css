@@ -1,18 +1,18 @@
-body  {background-image: url ("myBackground(II").jpg;
+body  {background-image: url ("background.jpg");
              background-color:#FFC0CB
 }
 
 #me {float: center;
-           width:10px;
-          height:20px;
+           width:50px;
+          height:100px;
 }
 #black {float: right;
-        width:10px;
-          height:20px;
+        width:50px;
+          height:100px;
 }
 #dr {float: right;
-        width:10px;
-          height:20px;
+        width:50px;
+          height:100px;
 }
 
 {border-radius: 8px;
