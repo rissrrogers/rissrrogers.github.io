@@ -3,18 +3,18 @@ body  {background-image: url ("background.jpg");
 }
 
 #me {float: center;
-           width:50px;
-          height:100px;
+           width:150px;
+          height:20px;
           margin-right:10px;
 }
 #black {float: center;
-        width:50px;
-          height:100px;
+        width:150px;
+          height:200px;
            margin-right:10px;
 }
 #dr {float: center;
-        width:50px;
-          height:100px;
+        width:150px;
+          height:200px;
            margin-right:10px;
 }
 
