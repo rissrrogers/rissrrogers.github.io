@@ -1,16 +1,18 @@
-body  {background :url ("myBackground(II").jpg);}
+body  {background-image: url ("myBackground(II").jpg;
+             background-color:#FFC0CB
+}
 
-#me {float: right;
-           width:100px;
-          height:100px;
+#me {float: center;
+           width:10px;
+          height:20px;
 }
 #black {float: right;
-        width:100px;
-          height:100px;
+        width:10px;
+          height:20px;
 }
-#dr {float: center;
-        width:100px;
-          height:100px;
+#dr {float: right;
+        width:10px;
+          height:20px;
 }
 
 {border-radius: 8px;
@@ -21,7 +23,6 @@ body  {background :url ("myBackground(II").jpg);}
 #nav-td {width:200px; text-align:center;}
 p {color:#A8534B;}
 
-h1 {color:#A8534B;
-    font-size
+h1 {color:#A8534B;}
 
   
