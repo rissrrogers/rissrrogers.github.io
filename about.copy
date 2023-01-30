@@ -1,0 +1,50 @@
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Riss's Programming Portfolio </title>
+        <link rel="stylesheet" href="mystyle.css">
+        <style>
+body {
+  background-image: url ("background.jpg");
+}
+</style>
+    </head>
+    <body>
+        <center>
+        <h1> About Me! </h1>
+        <img src= "mybanner.ii.jpg">
+        <table id="nav-table">
+         <thead>
+            <tr>     
+            </tr>
+            <tbody>
+                <center>
+                <td id="nav-td"> <a href="https://rissrrogers.github.io">  <img src="home(iii).png" alt="home page"> </td>
+                  </a>
+                <td id="nav-td"> <a javascript.png href= "https://rissrrogers.github.io/javascript.html"> <img src ="java(i).png" alt="java script">  </td>
+                   </a>
+                <td id="nav-td"> <a aboutme.png href= "https://rissrrogers.github.io/aboutme.html"> <img src= "aboutme(ii).png" alt=" about me">  </td> 
+                <td id="nav-td"> <a apps.png href= "https://rissrrogers.github.io/apps.html"> <img src= "apps.png" alt="apps">
+            </td>
+                    </a>
+        </thead>  
+    </table>
+         <center>
+        <p> My name is Riss I am a freshman at the University of Rhode Island, I currently double major in Computer Science and Biomedical Engineering. I am pursuing a Bachelors of Science in both. I originally struggled with deciding on a double major as I orginally was in the International Engineering Program studying German. I however felt that Computer Science would help my career goals better and so I changed my major. <br>
+            
+ I am originally from the Dominican Republic I immigrated to the U.S. as a child. I am fluent in both Spanish and English. I primarily read in English but I would like to try reading more in Spanish to practice.
+                  
+             </p>
+         <img id="dr" src= "dominicanflag.png">
+          <img id="black" src= "reading.jpg">
+          <img id="me" src= "aboutme.jpeg">
+         
+             <img src "background.jpg">   
+           
+    </body>
+</html>
+ 
