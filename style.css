@@ -6,7 +6,9 @@ body{background-color:#FFC0CB;}
 
 #nav-td {width:200px; text-align:center;}
 p {color:#A8534B;
- font-size:30px;}
+ font-size:30px;
+ position: absolute;
+}
 
 h1 {color:#A8534B;
     font-size:30px;
