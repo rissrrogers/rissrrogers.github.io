@@ -14,3 +14,7 @@ h1 {color:#A8534B;
     font-size:30px;
 
 }
+
+h2.big {
+  line-height: 1.8;
+}
